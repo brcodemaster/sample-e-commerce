@@ -1,0 +1,11 @@
+export * from './header'
+export * from './footer'
+export * from './our-products'
+export * from './best-selling'
+export * from './flesh-sales'
+export * from './hero'
+
+export { ServiceButtons } from './service-buttons'
+export { Featured } from './featured'
+export { Categories } from './categories'
+export { Banner } from './banner'
