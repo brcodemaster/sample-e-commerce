@@ -3,7 +3,7 @@ import { CardSkeleton } from '@/components/ui/skeletons'
 
 export const BestSellingSkeleton: React.FC = () => {
 	return (
-		<Container>
+		<Container className='pt-16'>
 			<div className='flex items-end'>
 				<BlankWithTitle blank='This Month' title='Best Selling Products' />
 				<div className='w-full flex justify-end items-end'>
